@@ -1,0 +1,6 @@
+{
+  "DATABASE": "mongodb://localhost/newdatabase",
+  "jwtSecret": "lkadhflkajdbfklan3764346239046ksdbflaksdgbflkab",
+  "clientID": "67f644881f2898636724",
+  "clientSecret": "c847a025475808a80066154d946bfecc74877049"
+}
